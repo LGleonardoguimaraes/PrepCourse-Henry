@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Repositorio de prueba para el curso de Henry
+Es la prueba para clonarlo en mi compu
